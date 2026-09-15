@@ -28,7 +28,7 @@ def fetch_data():
     return {}
 
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     log_data = [
         "User logged in",
         "User updated profile",
